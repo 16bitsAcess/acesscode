@@ -1,2 +1,2 @@
-Serial
+HWID:
            77I54PYNS
