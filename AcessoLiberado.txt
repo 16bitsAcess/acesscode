@@ -3,7 +3,6 @@ HWID:
           
           50026B7682B158F2
           
-          Serial:
-           86PT3GANS
+          
           
          
