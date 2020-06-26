@@ -1,6 +1,7 @@
 HWID:
            77I54PYNS
-SERIAL:
+           
+           SERIAL:
       TM85134THHZ18L
 
            
