@@ -1,7 +1,8 @@
 HWID:
            77I54PYNS
-SERIAL:
-2020202020204d543538333154344848315a4c38
+           SERIAL:
+      TM85134THHZ18L
+
            
            
           
