@@ -1,5 +1,7 @@
 HWID:
            77I54PYNS
+SERIAL:
+           Z2BDSFF9S
 
            
           
