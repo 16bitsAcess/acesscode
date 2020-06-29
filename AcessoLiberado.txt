@@ -4,6 +4,9 @@ HWID:
 
 SERIAL:
            TM85134THHZ18L
+
+SERIAL:
+           WXC1AA7CH2SR
            
           
 
