@@ -7,7 +7,6 @@ SERIAL:
 
 SERIAL:
            WXC1AA7CH2SR
-           
 Serial:50026B73800FB262
            
           
